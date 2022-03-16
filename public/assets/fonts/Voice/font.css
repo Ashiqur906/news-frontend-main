@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'voice';
+	src: url('voice.eot?#iefix') format('embedded-opentype'),
+      url('voice.woff') format('woff'),
+      url('voice.woff2') format('woff2'),
+      url('voice.ttf')  format('truetype'),
+      url('voice.otf')  format('truetype'),
+      url('voice.svg#svgFontName') format('svg');
+  font-display: swap;
+}
